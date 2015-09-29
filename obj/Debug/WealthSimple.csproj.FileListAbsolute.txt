@@ -1,0 +1,11 @@
+D:\WorkingArea\WealthSimple\WealthSimple\WealthSimple\bin\Debug\WealthSimple.exe.config
+D:\WorkingArea\WealthSimple\WealthSimple\WealthSimple\bin\Debug\WealthSimple.exe
+D:\WorkingArea\WealthSimple\WealthSimple\WealthSimple\bin\Debug\WealthSimple.pdb
+D:\WorkingArea\WealthSimple\WealthSimple\WealthSimple\obj\Debug\WealthSimple.exe
+D:\WorkingArea\WealthSimple\WealthSimple\WealthSimple\obj\Debug\WealthSimple.pdb
+F:\Code_Challenge\wealthsimple\WealthSimple\WealthSimple\WealthSimple\bin\Debug\WealthSimple.exe.config
+F:\Code_Challenge\wealthsimple\WealthSimple\WealthSimple\WealthSimple\obj\Debug\WealthSimple.exe
+F:\Code_Challenge\wealthsimple\WealthSimple\WealthSimple\WealthSimple\obj\Debug\WealthSimple.pdb
+F:\Code_Challenge\wealthsimple\WealthSimple\WealthSimple\WealthSimple\bin\Debug\WealthSimple.exe
+F:\Code_Challenge\wealthsimple\WealthSimple\WealthSimple\WealthSimple\bin\Debug\WealthSimple.pdb
+F:\Code_Challenge\wealthsimple\WealthSimple\WealthSimple\WealthSimple\obj\Debug\WealthSimple.csprojResolveAssemblyReference.cache
